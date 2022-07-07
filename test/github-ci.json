@@ -1,0 +1,10 @@
+{
+    "pull_request": {
+        "head": {
+            "ref": "refs/tags/v0.1.0"
+        },
+        "base": {
+            "ref": "refs/tags/v0.1.0"
+        }
+    }
+}
